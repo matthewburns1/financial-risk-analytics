@@ -1,4 +1,4 @@
-# Financial Risk Analytics Suite
+# Varda Meridian
 A personal project that demonstrates the core risk modeling concepts used in banking
 and finance. Built using real market data across 3 modules: Credit Risk, Market Risk, and Portfolio Optimization.
 ## Motivation
